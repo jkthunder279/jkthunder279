@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 3rd Year Undergraduate @ IIT Kharagpur  
-- 🤖 AI/ML Intern @ Sanjeev Oak RDC  
+- 🎓 Pre-final year student @ IIT Kharagpur  
 - 💡 Interested in: AI Agents, LLMs, Automation, Backend Systems  
 - 🌱 Currently learning: System Design, Agentic AI, Cloud  
 - 🏆 Competitive Programmer (Codeforces Specialist, CodeChef 3★)  
@@ -28,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 </p>
 
 ---
@@ -36,16 +34,16 @@
 ## 🧠 Competitive Programming Profiles
 
 <p align="left">
-  <a href="https://codeforces.com/profile/jkthunder279" target="_blank">
+  <a href="https://codeforces.com/profile/NIKKA777" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/jkthunder279" target="_blank">
+  <a href="https://www.codechef.com/users/jagrutpatel999" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef" />
   </a>
-  <a href="https://atcoder.jp/users/jkthunder279" target="_blank">
+  <a href="https://atcoder.jp/users/NIKKA279" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-User-orange?style=for-the-badge&logo=atcoder" />
   </a>
-  <a href="https://leetcode.com/jkthunder279" target="_blank">
+  <a href="https://leetcode.com/u/jagrutpatel999/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
@@ -74,10 +72,8 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 🐦 Twitter/X: https://twitter.com/YOUR_HANDLE  
-- 🌐 Portfolio: https://yourwebsite.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/jagrut-karnavat-7b0b28257/
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jkthunder279&label=Profile%20Views&color=brightgreen)
+![Profile Views]53
